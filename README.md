@@ -54,13 +54,13 @@
 
 - **개발 환경**
 
-  ![Spring boot](http://img.shields.io/badge/-django-092E20?logo=django&logoColor=fff) ![mriadb](http://img.shields.io/badge/-SQLite-47A5DD?logo=sqlite&logoColor=fff) ![Vue](http://img.shields.io/badge/-Vue.js-47C08D?logo=vue.js&logoColor=fff) 
+  ![django](http://img.shields.io/badge/-django-092E20?logo=django&logoColor=fff) ![sqlite](http://img.shields.io/badge/-SQLite-47A5DD?logo=sqlite&logoColor=fff) ![Vue](http://img.shields.io/badge/-Vue.js-47C08D?logo=vue.js&logoColor=fff) 
 
-  ![AWS ec2](http://img.shields.io/badge/-AWS_ec2-EC690E?logo=amazon-aws&logoColor=fff) ![Ubuntu](http://img.shields.io/badge/-Vuetify.js-7BC6FF?logo=vuetify&logoColor=fff) 
+  ![AWS ec2](http://img.shields.io/badge/-AWS_ec2-EC690E?logo=amazon-aws&logoColor=fff) ![vuetify](http://img.shields.io/badge/-Vuetify.js-7BC6FF?logo=vuetify&logoColor=fff) 
 
 - **개발 Tool**
 
-  ![Visual Code](http://img.shields.io/badge/-VS_code-23A8F2?logo=visualstudio&logoColor=fff) ![Intellij](https://img.shields.io/badge/PyCharm-9CD863?&logo=pycharm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2391E6?&logo=docker&logoColor=white) 
+  ![Visual Code](http://img.shields.io/badge/-VS_code-23A8F2?logo=visualstudio&logoColor=fff) ![pycharm](https://img.shields.io/badge/PyCharm-9CD863?&logo=pycharm&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2391E6?&logo=docker&logoColor=white) 
 
 
 
