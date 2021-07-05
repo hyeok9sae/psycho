@@ -66,7 +66,7 @@
 
 
 
-## 📞 Contact to 'COSAT'
+## 📞 Team 'COSAT'
 
 🎨 Frontend Developer
 
@@ -77,7 +77,4 @@
 
 - 한정훈
 - 노우현
-
-📺 Crawling & Visualization
-
 - 최재혁
